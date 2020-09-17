@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIWithMerge", "WebAPIWithMerge\WebAPIWithMerge.csproj", "{02BB3630-62AF-4242-9CCD-E6178FB318C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02BB3630-62AF-4242-9CCD-E6178FB318C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02BB3630-62AF-4242-9CCD-E6178FB318C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02BB3630-62AF-4242-9CCD-E6178FB318C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02BB3630-62AF-4242-9CCD-E6178FB318C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4D59606-031C-4ECE-89A4-CA1B1C215523}
+	EndGlobalSection
+EndGlobal
