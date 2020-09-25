@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project Training\\Git\\khanhnh\\TestGitMerge\\WebAPIWithMerge\\WebAPIWithMerge\\WebAPIWithMerge.csproj",
+      "projectUniqueName": "D:\\Project Training\\Git\\TestGitMerge\\WebAPIWithMerge\\WebAPIWithMerge\\WebAPIWithMerge.csproj",
       "projectName": "WebAPIWithMerge",
-      "projectPath": "D:\\Project Training\\Git\\khanhnh\\TestGitMerge\\WebAPIWithMerge\\WebAPIWithMerge\\WebAPIWithMerge.csproj",
+      "projectPath": "D:\\Project Training\\Git\\TestGitMerge\\WebAPIWithMerge\\WebAPIWithMerge\\WebAPIWithMerge.csproj",
       "packagesPath": "C:\\Users\\Khanh Nguyen Huy\\.nuget\\packages\\",
-      "outputPath": "D:\\Project Training\\Git\\khanhnh\\TestGitMerge\\WebAPIWithMerge\\WebAPIWithMerge\\obj\\",
+      "outputPath": "D:\\Project Training\\Git\\TestGitMerge\\WebAPIWithMerge\\WebAPIWithMerge\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Khanh Nguyen Huy\\AppData\\Roaming\\NuGet\\NuGet.Config",

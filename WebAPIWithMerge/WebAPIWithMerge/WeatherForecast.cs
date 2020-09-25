@@ -13,5 +13,7 @@ namespace WebAPIWithMerge
         public string Summary { get; set; }
 
         public string Khanhnh { get; } = "I'm Khanh";
+
+        public string Khanh_An { get; } = "Con gai An";
     }
 }
